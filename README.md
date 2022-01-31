@@ -31,3 +31,5 @@ class Usuario extends Model {
 
 }
 ```
+
+Projeto dando erro na variável de usuário $loggedUser, não carregando os dados em sí (avatar, nome...)!
