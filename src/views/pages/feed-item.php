@@ -2,7 +2,7 @@
 <div class="box-body">
 <div class="feed-item-head row mt-20 m-width-20">
 <div class="feed-item-head-photo">
-    <a href=""><img src="media/avatars/avatar.jpg" /></a>
+    <a href=""><img src="media/avatars/default.jpg" /></a>
 </div>
 <div class="feed-item-head-info">
     <a href=""><span class="fidi-name">Bonieky Lacerda</span></a>
@@ -27,7 +27,7 @@ Este sistema permite que vários funcionários/colaboradores da empresa atendam 
 
 <div class="fic-item row m-height-10 m-width-20">
     <div class="fic-item-photo">
-        <a href=""><img src="media/avatars/avatar.jpg" /></a>
+        <a href=""><img src="media/avatars/default.jpg" /></a>
     </div>
     <div class="fic-item-info">
         <a href="">Bonieky Lacerda</a>
@@ -37,7 +37,7 @@ Este sistema permite que vários funcionários/colaboradores da empresa atendam 
 
 <div class="fic-item row m-height-10 m-width-20">
     <div class="fic-item-photo">
-        <a href="<?=$base?>/<?=$base?>/"><img src="media/avatars/avatar.jpg" /></a>
+        <a href="<?=$base?>/<?=$base?>/"><img src="media/avatars/default.jpg" /></a>
     </div>
     <div class="fic-item-info">
         <a href="<?=$base?>/">Bonieky Lacerda</a>
@@ -47,7 +47,7 @@ Este sistema permite que vários funcionários/colaboradores da empresa atendam 
 
 <div class="fic-answer row m-height-10 m-width-20">
     <div class="fic-item-photo">
-        <a href="<?=$base?>/"><img src="media/avatars/avatar.jpg" /></a>
+        <a href="<?=$base?>/"><img src="media/avatars/default.jpg" /></a>
     </div>
     <input type="text" class="fic-item-field" placeholder="Escreva um comentário" />
 </div>
