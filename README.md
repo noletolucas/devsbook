@@ -31,3 +31,6 @@ class Usuario extends Model {
 
 }
 ```
+#Atualização
+
+feed-editor concluido com sucesso!!
