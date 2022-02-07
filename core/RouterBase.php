@@ -1,5 +1,6 @@
 <?php
 namespace core;
+//namespace \src\controllers\LoginController;
 
 use \src\Config;
 

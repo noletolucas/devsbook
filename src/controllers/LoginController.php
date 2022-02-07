@@ -1,5 +1,6 @@
 <?php
 namespace src\controllers;
+namespace src\handlers\UserHandler;
 
 use \core\Controller;
 use \src\handlers\UserHandler;

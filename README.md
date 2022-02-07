@@ -33,4 +33,4 @@ class Usuario extends Model {
 ```
 #Atualização
 
-feed-editor concluido com sucesso!!
+Fatal error: Uncaught Error: Class '\src\controllers\LoginController' not found in C:\xampp\htdocs\devsbook\core\RouterBase.php:53 Stack trace: #0 C:\xampp\htdocs\devsbook\public\index.php(6): core\RouterBase->run(Array) #1 {main} thrown in C:\xampp\htdocs\devsbook\core\RouterBase.php on line 53
